@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaqlainHassan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Salesforce
+- 🌱 I’m currently learning Salesforce Dev
 - 💞️ I’m looking to Get a job.
 - 📫 How to reach me through mail-saqlainhassan3@gmail.com
 
