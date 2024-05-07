@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaqlainHassan
-- 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning Salesforce Dev
-- 💞️ I’m looking to Get a job.
+- 👀 I’m a Spring Boot Api Developer
+- 🌱 I’m currently learning more about Spring
 - 📫 How to reach me through mail-saqlainhassan3@gmail.com
 
 <!---
